@@ -1,2 +1,2 @@
 # NeuroStartUp
-## Technology matters ##
+## Technology matters
